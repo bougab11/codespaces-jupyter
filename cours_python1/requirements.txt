@@ -1,0 +1,10 @@
+cffi==1.16.0
+matplotlib==3.7.1
+numba==0.58.1
+numpy==1.25.2
+pandas==2.0.3
+plotly==5.15.0
+Requests==2.31.0
+scipy==1.13.0
+sympy==1.12
+tqdm==4.66.2
